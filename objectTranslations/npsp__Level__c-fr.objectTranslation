@@ -67,6 +67,13 @@
         </picklistValues>
     </fields>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Level Layout</layout>
+        <sections>
+            <label>section de texte longue</label>
+            <section>long text section</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nom du niveau</nameFieldLabel>
     <startsWith>Consonant</startsWith>
     <validationRules>

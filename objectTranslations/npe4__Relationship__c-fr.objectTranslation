@@ -172,6 +172,13 @@
         </picklistValues>
     </fields>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Relationship Layout</layout>
+        <sections>
+            <label>Informations de relation</label>
+            <section>Relationship Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Numéro de relation</nameFieldLabel>
     <startsWith>Consonant</startsWith>
     <validationRules>

@@ -64,5 +64,12 @@
             <translation>支援依頼者</translation>
         </picklistValues>
     </fields>
+    <layouts>
+        <layout>Affiliation Layout</layout>
+        <sections>
+            <label>アフィリエーション情報</label>
+            <section>Affiliation Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>アフィリエーション名</nameFieldLabel>
 </CustomObjectTranslation>

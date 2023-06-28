@@ -2,6 +2,10 @@
 <Translations xmlns="http://soap.sforce.com/2006/04/metadata">
     <customApplications>
         <label><!-- Nonprofit Success Pack --></label>
+        <name>Nonprofit_CRM</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Nonprofit Success Pack --></label>
         <name>Nonprofit_Success_Pack</name>
     </customApplications>
     <customLabels>
@@ -8428,13 +8432,521 @@
         <label><!-- Label for update payment method option on Recurring Donations Action --></label>
         <name>npsp__updatePaymentMethod</name>
     </customLabels>
+    <customPageWebLinks>
+        <label><!-- DEPRECATED: Nonprofit Edition Reports --></label>
+        <name>Nonprofit_Edition_Reports</name>
+    </customPageWebLinks>
+    <customTabs>
+        <label><!-- Affiliations Settings --></label>
+        <name>Affiliations_Settings</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Batch Data Entry --></label>
+        <name>Batch_Data_Entry</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Batch Gift Entry --></label>
+        <name>Batch_Gift_Entry</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Contact Merge (OLD) --></label>
+        <name>Contact_Merge</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Contact Merge --></label>
+        <name>Contact_Merge</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Contacts Settings --></label>
+        <name>Contacts_Settings</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Gift Entry --></label>
+        <name>GE_Gift_Entry</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Get Started with NPSP - Admin --></label>
+        <name>GetStarted</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Get Started with NPSP --></label>
+        <name>GetStartedEndUser</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Households Settings --></label>
+        <name>Households_Settings</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Getting Started --></label>
+        <name>NPSP_Resources</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- NPSP Settings --></label>
+        <name>NPSP_Settings</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Opportunity Rollups --></label>
+        <name>Opportunity_Rollups</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Payment Mapping --></label>
+        <name>Payment_Mapping</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Relationships Settings --></label>
+        <name>Relationships_Settings</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- User Rollups --></label>
+        <name>User_Rollups</name>
+    </customTabs>
+    <prompts>
+        <name>GetStartedwithNPSP</name>
+        <promptVersions>
+            <name>Get Started with NPSP</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudTrialChatterGuide</name>
+        <promptVersions>
+            <name>Sales Cloud Trial Chatter Guide</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ServiceCloudTrialChatterGuide</name>
+        <promptVersions>
+            <name>Service Cloud Trial Chatter Guide</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>MFAAutoEnableAwarenessforCompliantOrgs</name>
+        <promptVersions>
+            <name>MFA Auto-Enable Awareness for Compliant Orgs</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ManageUsers</name>
+        <promptVersions>
+            <name>Manage Users</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>OpportunityPageGuidanceOrganizationDonation</name>
+        <promptVersions>
+            <name>Opportunity Page Guidance - Organization Donation</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>CDPOnboardingInAppGuidance</name>
+        <promptVersions>
+            <name>CDP Onboarding InApp Guidance</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>MFAAutoEnableAwarenessforNonCompliantOrgs</name>
+        <promptVersions>
+            <name>MFA Auto-Enable Awareness for Non-Compliant Orgs</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SupportEmailToCase</name>
+        <promptVersions>
+            <name>Support Email To Case</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudTrailPreconfiguredDashboardsGuide</name>
+        <promptVersions>
+            <name>Sales Cloud Trail Pre-configured Dashboards Guide</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>NPSPLicenseDay20</name>
+        <promptVersions>
+            <name>NPSP License Day 20</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudTrialHomePage</name>
+        <promptVersions>
+            <name>Sales Cloud Trial Home Page</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SetupUsers</name>
+        <promptVersions>
+            <name>Setup Users</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ServiceCloudCoreChatter</name>
+        <promptVersions>
+            <name>Service Cloud Core Chatter</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>GmailIntegrationandSync</name>
+        <promptVersions>
+            <name>Gmail Integration and Sync</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesHVSDialer</name>
+        <promptVersions>
+            <name>Sales HVS Dialer</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ServiceCloudCoreCases</name>
+        <promptVersions>
+            <name>Service Cloud Core Cases</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>EnablementExploreAnalyticsEnblAdmin</name>
+        <promptVersions>
+            <name>Explore Analytics</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>MeetingDigest</name>
+        <promptVersions>
+            <name>Meeting Digest</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>UnifiedAnalyticsHomeReportsUser</name>
+        <promptVersions>
+            <name>Unified Analytics Home Docked Prompt - Reports</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>YourAccount</name>
+        <promptVersions>
+            <name>YourAccount Step 1</name>
+            <stepNumber>1</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>YourAccount Step 2</name>
+            <stepNumber>2</stepNumber>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudCoreOpportunitiesTab</name>
+        <promptVersions>
+            <name>Sales Cloud Core Opportunities Tab</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SelfSupportDataImportWizard</name>
+        <promptVersions>
+            <name>Self Support Data Import Wizard</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudTrialKanbanVideo</name>
+        <promptVersions>
+            <name>Sales Cloud Trial Kanban Video</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudCoreChatterTab</name>
+        <promptVersions>
+            <name>Sales Cloud Core Chatter Tab</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ServiceIncidentManagementBroadcastUser</name>
+        <promptVersions>
+            <name>Incident Management Broadcast</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudTrialContactsListViewsVideo</name>
+        <promptVersions>
+            <name>Sales Cloud Trial Contacts List Views Video</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ReleaseReadiness</name>
+        <promptVersions>
+            <name>Release Readiness</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>X4StepWalkthroughonContact</name>
+        <promptVersions>
+            <name>4 Step Walkthrough on Contact Step 1</name>
+            <stepNumber>1</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>4 Step Walkthrough on Contact Step 2</name>
+            <stepNumber>2</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>4 Step Walkthrough on Contact Step 3</name>
+            <stepNumber>3</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>4 Step Walkthrough on Contact Step 4</name>
+            <stepNumber>4</stepNumber>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>EnablementExploreProgramsEnblAdmin</name>
+        <promptVersions>
+            <name>Explore Programs</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesPipelineInspectionWalkthrough</name>
+        <promptVersions>
+            <name>Pipeline Inspection: Sell Smarter Step 5</name>
+            <stepNumber>5</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>Pipeline Inspection: Sell Smarter Step 7</name>
+            <stepNumber>7</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>Pipeline Inspection: Sell Smarter Step 6</name>
+            <stepNumber>6</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>Pipeline Inspection: Sell Smarter Step 4</name>
+            <stepNumber>4</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>Pipeline Inspection: Sell Smarter Step 1</name>
+            <stepNumber>1</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>Pipeline Inspection: Sell Smarter Step 2</name>
+            <stepNumber>2</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>Pipeline Inspection: Sell Smarter Step 3</name>
+            <stepNumber>3</stepNumber>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ServiceCloudTrialCasesTab</name>
+        <promptVersions>
+            <name>Service Cloud Trial Cases Tab</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ReleaseReadinessSales</name>
+        <promptVersions>
+            <name>Release Readiness Sales</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ProfilesPermSets</name>
+        <promptVersions>
+            <name>ProfilesPermSets Step 1</name>
+            <stepNumber>1</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>ProfilesPermSets Step 2</name>
+            <stepNumber>2</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>ProfilesPermSets Step 3</name>
+            <stepNumber>3</stepNumber>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>X2StepWalkthroughonReports</name>
+        <promptVersions>
+            <name>2 Step Walkthrough on Reports Step 1</name>
+            <stepNumber>1</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>2 Step Walkthrough on Reports Step 2</name>
+            <stepNumber>2</stepNumber>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>EnablementSwitchToProgramsEnblAdmin</name>
+        <promptVersions>
+            <name>Switch Between Measures and Programs Easily</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesForecastingAdmin</name>
+        <promptVersions>
+            <name>ForecastingAdoption</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>UnifiedAnalyticsHomeDashboardsUser</name>
+        <promptVersions>
+            <name>Unified Analytics Home Docked Prompt - Dashboards</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ReleaseReadinessSandboxSales</name>
+        <promptVersions>
+            <name>Release Readiness Sandbox Sales</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ReleaseReadinessServiceSandbox</name>
+        <promptVersions>
+            <name>Release Readiness Service Sandbox</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>EngagementAttributeTips</name>
+        <promptVersions>
+            <name>Engagement Attribute Tips</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>LEX_CDN_ADOPTION</name>
+        <promptVersions>
+            <name>LEX CDN Adoption</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>EinsteinPredictionBuilderSetupPagePrompt</name>
+        <promptVersions>
+            <name>Einstein Prediction Builder Setup Page Prompt</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>NPSPContactMergeGuidance</name>
+        <promptVersions>
+            <name>NPSP Contact Merge Guidance</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudCoreReportsTab</name>
+        <promptVersions>
+            <name>Sales Cloud Core Reports Tab</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>OpportunityPageGuidance</name>
+        <promptVersions>
+            <name>Opportunity Page Guidance</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ReportGuidanceStandardReportTypes</name>
+        <promptVersions>
+            <name>Report Guidance - Standard Report Types</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ServiceCloudTrialHomepageGuide</name>
+        <promptVersions>
+            <name>Service Cloud Trial Homepage Guide</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>EnablementExploreMeasuresEnblAdmin</name>
+        <promptVersions>
+            <name>Explore Measures</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCoreQuoteAdminCpq</name>
+        <promptVersions>
+            <name>Sales Core Quote Admin to CPQ</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>IAGFeatureAdoption</name>
+        <promptVersions>
+            <name>IAG Feature Adoption Step 2</name>
+            <stepNumber>2</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>IAG Feature Adoption Step 1</name>
+            <stepNumber>1</stepNumber>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ServiceCloudCoreHomepage</name>
+        <promptVersions>
+            <name>Service Cloud Core Homepage</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ServiceCloudCoreReportsTab</name>
+        <promptVersions>
+            <name>Service Cloud Core Reports Tab</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>NPSPLicenseDay25</name>
+        <promptVersions>
+            <name>NPSP License Day 25</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>NPSPLicenseDay1</name>
+        <promptVersions>
+            <name>NPSP License Day 1</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ReportGuidance</name>
+        <promptVersions>
+            <name>Report Guidance</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ServiceCloudTrialDashboardGuide</name>
+        <promptVersions>
+            <name>Service Cloud Trial Dashboard Guide</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>APIOnly</name>
+        <promptVersions>
+            <name>APIOnly</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ContactPageGuidance</name>
+        <promptVersions>
+            <name>Contact Page Guidance</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudCoreContactsTab</name>
+        <promptVersions>
+            <name>Sales Cloud Core Contacts Tab</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudCoreHomepage</name>
+        <promptVersions>
+            <name>Sales Cloud Core Homepage</name>
+        </promptVersions>
+    </prompts>
+    <quickActions>
+        <label><!-- Log a Call --></label>
+        <name>LogACall</name>
+    </quickActions>
     <quickActions>
         <label><!-- LogACall --></label>
         <name>LogACall</name>
     </quickActions>
     <quickActions>
+        <label><!-- New Account --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
         <label><!-- NewCase --></label>
         <name>NewCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Contact --></label>
+        <name>NewContact</name>
     </quickActions>
     <quickActions>
         <label><!-- NewContact --></label>
@@ -8453,16 +8965,40 @@
         <name>NewLead</name>
     </quickActions>
     <quickActions>
+        <label><!-- New Note --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Note --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
         <label><!-- NewNote --></label>
         <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Opportunity --></label>
+        <name>NewOpportunity</name>
     </quickActions>
     <quickActions>
         <label><!-- NewOpportunity --></label>
         <name>NewOpportunity</name>
     </quickActions>
     <quickActions>
+        <label><!-- New Task --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Task --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <quickActions>
         <label><!-- NewTask --></label>
         <name>NewTask</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Campaign --></label>
+        <name>New_Campaign</name>
     </quickActions>
     <quickActions>
         <label><!-- New Donation --></label>
@@ -8481,7 +9017,87 @@
         <name>New_Organization</name>
     </quickActions>
     <quickActions>
+        <label><!-- New Recurring Donation --></label>
+        <name>New_Recurring_Donation</name>
+    </quickActions>
+    <quickActions>
         <label><!-- SendEmail --></label>
         <name>SendEmail</name>
     </quickActions>
+    <reportTypes>
+        <description><!-- Contacts Only --></description>
+        <label><!-- Contacts Only --></label>
+        <name>Contacts_Only</name>
+        <sections>
+            <label><!-- Contacts --></label>
+            <name>Contacts</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Households and Donations --></description>
+        <label><!-- Households and Donations --></label>
+        <name>Households_and_Donations</name>
+        <sections>
+            <label><!-- Household Members --></label>
+            <name>Household Members</name>
+        </sections>
+        <sections>
+            <label><!-- Households --></label>
+            <name>Households</name>
+        </sections>
+        <sections>
+            <label><!-- Opportunities --></label>
+            <name>Opportunities</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Opportunities w/Contacts w/Affiliations (custom) --></description>
+        <label><!-- Opportunities w/Contacts w/Affiliations (custom) --></label>
+        <name>Opportunities_with_Contacts_with_Affiliations</name>
+        <sections>
+            <label><!-- Affiliated Organization --></label>
+            <name>Affiliated Organization</name>
+        </sections>
+        <sections>
+            <label><!-- Contact Roles --></label>
+            <name>Contact Roles</name>
+        </sections>
+        <sections>
+            <label><!-- Opportunities --></label>
+            <name>Opportunities</name>
+        </sections>
+        <sections>
+            <label><!-- Organization Affiliations --></label>
+            <name>Organization Affiliations</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Screen Flows --></description>
+        <label><!-- Screen Flows --></label>
+        <name>screen_flows_prebuilt_crt</name>
+        <sections>
+            <label><!-- Flow Interview Log Entries --></label>
+            <name>Flow Interview Log Entries</name>
+        </sections>
+        <sections>
+            <label><!-- Flow Interview Logs --></label>
+            <name>Flow Interview Logs</name>
+        </sections>
+    </reportTypes>
+    <scontrols>
+        <label><!-- AccountViewOverride --></label>
+        <name>AccountViewOverride</name>
+    </scontrols>
+    <scontrols>
+        <label><!-- ContactDonationCredit --></label>
+        <name>ContactDonationCredit</name>
+    </scontrols>
+    <scontrols>
+        <label><!-- HouseholdTransactionHistory --></label>
+        <name>HouseholdTransactionHistory</name>
+    </scontrols>
+    <scontrols>
+        <label><!-- OpportunityCreateMatching --></label>
+        <name>OpportunityCreateMatching</name>
+    </scontrols>
 </Translations>
