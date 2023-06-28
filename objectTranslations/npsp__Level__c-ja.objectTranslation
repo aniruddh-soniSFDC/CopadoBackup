@@ -62,6 +62,13 @@
             <translation>個人</translation>
         </picklistValues>
     </fields>
+    <layouts>
+        <layout>Level Layout</layout>
+        <sections>
+            <label>ロングテキストセクション</label>
+            <section>long text section</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>レベル名</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Target is a required field on Level.  Please specify the Target object for this Level. --></errorMessage>

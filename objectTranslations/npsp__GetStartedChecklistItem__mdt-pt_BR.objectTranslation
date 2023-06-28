@@ -113,4 +113,19 @@ Para um botão Nova guia SFDC, o formato é &quot;{pageReference}:{objectOrPageA
         <name>npsp__Title_Label__c</name>
     </fields>
     
+    <layouts>
+        <layout>GS Checklist Item Layout</layout>
+        <sections>
+            <label>Botões</label>
+            <section>Buttons</section>
+        </sections>
+        <sections>
+            <label>Informações</label>
+            <section>Info</section>
+        </sections>
+        <sections>
+            <label>Link</label>
+            <section>Link</section>
+        </sections>
+    </layouts>
 </CustomObjectTranslation>

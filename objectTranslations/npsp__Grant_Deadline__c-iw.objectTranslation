@@ -61,5 +61,19 @@
         </picklistValues>
     </fields>
     
+    <layouts>
+        <layout>Deliverable</layout>
+        <sections>
+            <label><!-- Grant Deliverable Requirements --></label>
+            <section>Grant Deliverable Requirements</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Grant Deadline Layout</layout>
+        <sections>
+            <label>דרישות להענקת מענק</label>
+            <section>Grant Deliverable Requirements</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Deliverable Name --></nameFieldLabel>
 </CustomObjectTranslation>

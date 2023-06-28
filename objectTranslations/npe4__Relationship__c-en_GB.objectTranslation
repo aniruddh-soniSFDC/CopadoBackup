@@ -171,6 +171,13 @@
             <translation>Tribute</translation>
         </picklistValues>
     </fields>
+    <layouts>
+        <layout>Relationship Layout</layout>
+        <sections>
+            <label>Relationship Information</label>
+            <section>Relationship Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Relationship Number</nameFieldLabel>
     <startsWith>Consonant</startsWith>
     <validationRules>

@@ -167,6 +167,13 @@
             <translation>敬意/追悼</translation>
         </picklistValues>
     </fields>
+    <layouts>
+        <layout>Relationship Layout</layout>
+        <sections>
+            <label>リレーション情報</label>
+            <section>Relationship Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>リレーション番号</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Rather than change the contacts in an existing relationship, delete this relationship and create a new on between the new contacts --></errorMessage>
