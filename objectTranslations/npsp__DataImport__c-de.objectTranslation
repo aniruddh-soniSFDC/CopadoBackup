@@ -1017,6 +1017,49 @@
         <name>npsp__UTM_Source__c</name>
     </fields>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Data Import Layout</layout>
+        <sections>
+            <label><!-- Account1 Information --></label>
+            <section>Account1 Information</section>
+        </sections>
+        <sections>
+            <label><!-- Account2 Information --></label>
+            <section>Account2 Information</section>
+        </sections>
+        <sections>
+            <label>Kontakt1 Informationen</label>
+            <section>Contact1 Information</section>
+        </sections>
+        <sections>
+            <label>Kontakt2 Informationen</label>
+            <section>Contact2 Information</section>
+        </sections>
+        <sections>
+            <label>Spendeninformationen</label>
+            <section>Donation Information</section>
+        </sections>
+        <sections>
+            <label><!-- GAU Allocation Information --></label>
+            <section>GAU Allocation Information</section>
+        </sections>
+        <sections>
+            <label>Privatadresse</label>
+            <section>Home Address</section>
+        </sections>
+        <sections>
+            <label><!-- Household Information --></label>
+            <section>Household Information</section>
+        </sections>
+        <sections>
+            <label><!-- Opportunity Contact Role Information --></label>
+            <section>Opportunity Contact Role Information</section>
+        </sections>
+        <sections>
+            <label>Informationen für wiederkehrende Spenden</label>
+            <section>Recurring Donation Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Datenimport-ID</nameFieldLabel>
     <webLinks>
         <label><!-- Delete_All_Data_Import_Records --></label>

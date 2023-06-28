@@ -66,6 +66,13 @@
             <translation>Contact</translation>
         </picklistValues>
     </fields>
+    <layouts>
+        <layout>Level Layout</layout>
+        <sections>
+            <label>long text section</label>
+            <section>long text section</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Level Name</nameFieldLabel>
     <startsWith>Consonant</startsWith>
     <validationRules>

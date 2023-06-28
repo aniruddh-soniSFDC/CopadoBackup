@@ -517,6 +517,17 @@
         <label><!-- Verified --></label>
         <name>npsp__Verified__c</name>
     </fields>
+    <layouts>
+        <layout>Address Layout</layout>
+        <sections>
+            <label><!-- Seasonal Information --></label>
+            <section>Seasonal Information</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Update Address --></label>
+        <name>npsp__Update_Address</name>
+    </quickActions>
     <webLinks>
         <label><!-- Verify_Address --></label>
         <name>npsp__Verify_Address</name>

@@ -106,6 +106,17 @@
         <name>npsp__Total_Number_of_Allocations__c</name>
     </fields>
     
+    <layouts>
+        <layout>General Accounting Unit Layout</layout>
+        <sections>
+            <label>פרטי הקצאה</label>
+            <section>Allocation Information</section>
+        </sections>
+        <sections>
+            <label>סכומי הקצאה כוללים</label>
+            <section>Allocation Totals</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- General Accounting Unit Name --></nameFieldLabel>
     <webLinks>
         <label><!-- Recalculate_Rollups --></label>

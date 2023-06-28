@@ -108,4 +108,19 @@
         <label><!-- Title Label Name --></label>
         <name>npsp__Title_Label__c</name>
     </fields>
+    <layouts>
+        <layout>GS Checklist Item Layout</layout>
+        <sections>
+            <label>ボタン</label>
+            <section>Buttons</section>
+        </sections>
+        <sections>
+            <label>情報</label>
+            <section>Info</section>
+        </sections>
+        <sections>
+            <label>リンク</label>
+            <section>Link</section>
+        </sections>
+    </layouts>
 </CustomObjectTranslation>

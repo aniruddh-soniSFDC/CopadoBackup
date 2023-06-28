@@ -130,5 +130,16 @@
         <name>npsp__Use_Fiscal_Year__c</name>
     </fields>
     
+    <layouts>
+        <layout>Rollup Layout</layout>
+        <sections>
+            <label>Nouvelle section</label>
+            <section>New Section</section>
+        </sections>
+        <sections>
+            <label>Détails du cumul</label>
+            <section>Rollup Details</section>
+        </sections>
+    </layouts>
     
 </CustomObjectTranslation>

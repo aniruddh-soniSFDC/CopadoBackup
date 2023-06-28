@@ -69,5 +69,12 @@
         </picklistValues>
     </fields>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Affiliation Layout</layout>
+        <sections>
+            <label>Informações de afiliação</label>
+            <section>Affiliation Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nome da afiliação</nameFieldLabel>
 </CustomObjectTranslation>

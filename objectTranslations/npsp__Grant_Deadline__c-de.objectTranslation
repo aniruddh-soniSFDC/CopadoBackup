@@ -81,5 +81,19 @@
         </picklistValues>
     </fields>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Deliverable</layout>
+        <sections>
+            <label>Unterstützungsanforderungen</label>
+            <section>Grant Deliverable Requirements</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Grant Deadline Layout</layout>
+        <sections>
+            <label>Unterstützungsanforderungen</label>
+            <section>Grant Deliverable Requirements</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Lieferungsname</nameFieldLabel>
 </CustomObjectTranslation>

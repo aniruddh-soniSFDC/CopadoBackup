@@ -93,6 +93,17 @@
         <label><!-- Total Number of Allocations --></label>
         <name>npsp__Total_Number_of_Allocations__c</name>
     </fields>
+    <layouts>
+        <layout>General Accounting Unit Layout</layout>
+        <sections>
+            <label>Allocation Information</label>
+            <section>Allocation Information</section>
+        </sections>
+        <sections>
+            <label>Allocation Totals</label>
+            <section>Allocation Totals</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>General Accounting Unit Name</nameFieldLabel>
     <startsWith>Consonant</startsWith>
     <webLinks>

@@ -113,5 +113,20 @@ Pour un bouton Nouvel onglet Salesforce, le format est &quot;{pageReference}:{ob
         <name>npsp__Title_Label__c</name>
     </fields>
     
+    <layouts>
+        <layout>GS Checklist Item Layout</layout>
+        <sections>
+            <label>Boutons</label>
+            <section>Buttons</section>
+        </sections>
+        <sections>
+            <label>Informations</label>
+            <section>Info</section>
+        </sections>
+        <sections>
+            <label>Lien</label>
+            <section>Link</section>
+        </sections>
+    </layouts>
     
 </CustomObjectTranslation>
