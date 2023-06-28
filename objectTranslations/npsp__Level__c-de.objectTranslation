@@ -99,6 +99,13 @@
         </picklistValues>
     </fields>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Level Layout</layout>
+        <sections>
+            <label>Abschnitt für langen Text</label>
+            <section>long text section</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Name der Ebene</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Target is a required field on Level.  Please specify the Target object for this Level. --></errorMessage>

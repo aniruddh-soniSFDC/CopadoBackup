@@ -268,6 +268,14 @@
     </fields>
     <gender>Feminine</gender>
     <nameFieldLabel>Zahlungsnummer</nameFieldLabel>
+    <quickActions>
+        <label><!-- Quick Update --></label>
+        <name>npsp__Quick_Update</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Refund --></label>
+        <name>npsp__Refund</name>
+    </quickActions>
     <webLinks>
         <label><!-- Schedule_Payments --></label>
         <name>npe01__Schedule_Payments</name>

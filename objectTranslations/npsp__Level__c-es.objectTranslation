@@ -67,6 +67,13 @@
         </picklistValues>
     </fields>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Level Layout</layout>
+        <sections>
+            <label>Área de texto largo</label>
+            <section>long text section</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nombre de nivel</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Target is a required field on Level.  Please specify the Target object for this Level. --></errorMessage>
