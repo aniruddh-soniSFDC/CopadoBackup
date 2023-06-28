@@ -94,6 +94,17 @@
         <name>npsp__Total_Number_of_Allocations__c</name>
     </fields>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>General Accounting Unit Layout</layout>
+        <sections>
+            <label>Informações de alocação</label>
+            <section>Allocation Information</section>
+        </sections>
+        <sections>
+            <label>Totais de alocação</label>
+            <section>Allocation Totals</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nome da Unidade contábil geral</nameFieldLabel>
     <webLinks>
         <label><!-- Recalculate_Rollups --></label>

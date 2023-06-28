@@ -71,5 +71,12 @@
         </picklistValues>
     </fields>
     
+    <layouts>
+        <layout>Data Import Object Mapping Layout</layout>
+        <sections>
+            <label>Détails de la relation de l&apos;objet personnalisé</label>
+            <section>Custom Object Relationship Details</section>
+        </sections>
+    </layouts>
     
 </CustomObjectTranslation>

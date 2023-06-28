@@ -67,6 +67,13 @@
         </picklistValues>
     </fields>
     <gender>Neuter</gender>
+    <layouts>
+        <layout>Level Layout</layout>
+        <sections>
+            <label>lange text sectie</label>
+            <section>long text section</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Niveaunaam</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Target is a required field on Level.  Please specify the Target object for this Level. --></errorMessage>

@@ -526,7 +526,18 @@
         <name>npsp__Verified__c</name>
     </fields>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Address Layout</layout>
+        <sections>
+            <label>Información de estación</label>
+            <section>Seasonal Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Id. de Dirección</nameFieldLabel>
+    <quickActions>
+        <label><!-- Update Address --></label>
+        <name>npsp__Update_Address</name>
+    </quickActions>
     <webLinks>
         <label><!-- Verify_Address --></label>
         <name>npsp__Verify_Address</name>

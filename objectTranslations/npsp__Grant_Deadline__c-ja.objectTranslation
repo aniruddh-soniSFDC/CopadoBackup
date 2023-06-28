@@ -44,5 +44,19 @@
             <translation>LOI</translation>
         </picklistValues>
     </fields>
+    <layouts>
+        <layout>Deliverable</layout>
+        <sections>
+            <label>助成金の提出書類要件</label>
+            <section>Grant Deliverable Requirements</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Grant Deadline Layout</layout>
+        <sections>
+            <label>助成金の提出書類要件</label>
+            <section>Grant Deliverable Requirements</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>提出書類名</nameFieldLabel>
 </CustomObjectTranslation>

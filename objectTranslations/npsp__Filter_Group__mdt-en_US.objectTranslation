@@ -8,4 +8,11 @@
         <label><!-- Deleted --></label>
         <name>npsp__Is_Deleted__c</name>
     </fields>
+    <layouts>
+        <layout>Filter Group Layout</layout>
+        <sections>
+            <label><!-- New Section --></label>
+            <section>New Section</section>
+        </sections>
+    </layouts>
 </CustomObjectTranslation>

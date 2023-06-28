@@ -125,4 +125,15 @@
         <label><!-- Use Fiscal Year --></label>
         <name>npsp__Use_Fiscal_Year__c</name>
     </fields>
+    <layouts>
+        <layout>Rollup Layout</layout>
+        <sections>
+            <label>新規セクション</label>
+            <section>New Section</section>
+        </sections>
+        <sections>
+            <label>積み上げ集計詳細</label>
+            <section>Rollup Details</section>
+        </sections>
+    </layouts>
 </CustomObjectTranslation>
