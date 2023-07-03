@@ -8798,15 +8798,15 @@
         </promptVersions>
     </prompts>
     <prompts>
-        <name>LEX_CDN_ADOPTION</name>
-        <promptVersions>
-            <name>LEX CDN Adoption</name>
-        </promptVersions>
-    </prompts>
-    <prompts>
         <name>EngagementAttributeTips</name>
         <promptVersions>
             <name>Engagement Attribute Tips</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>LEX_CDN_ADOPTION</name>
+        <promptVersions>
+            <name>LEX CDN Adoption</name>
         </promptVersions>
     </prompts>
     <prompts>
