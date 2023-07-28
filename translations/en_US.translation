@@ -8820,6 +8820,12 @@
         </promptVersions>
     </prompts>
     <prompts>
+        <name>EnableSalesEngagement</name>
+        <promptVersions>
+            <name>EnableSalesEngagement</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
         <name>EnablementExploreProgramsEnblAdmin</name>
         <promptVersions>
             <name>Explore Programs</name>
