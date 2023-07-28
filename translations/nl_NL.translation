@@ -8662,6 +8662,12 @@
         </promptVersions>
     </prompts>
     <prompts>
+        <name>EnableSalesEngagement</name>
+        <promptVersions>
+            <name>EnableSalesEngagement</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
         <name>SalesCloudTrialContactsListViewsVideo</name>
         <promptVersions>
             <name>Sales Cloud Trial Contacts List Views Video</name>
