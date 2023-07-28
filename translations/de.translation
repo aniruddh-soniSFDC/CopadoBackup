@@ -8852,6 +8852,12 @@
         </promptVersions>
     </prompts>
     <prompts>
+        <name>EnableSalesEngagement</name>
+        <promptVersions>
+            <name>EnableSalesEngagement</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
         <name>SalesCoreQuoteAdminCpq</name>
         <promptVersions>
             <name>Sales Core Quote Admin to CPQ</name>
