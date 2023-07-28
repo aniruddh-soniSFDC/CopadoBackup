@@ -8549,6 +8549,12 @@
         </promptVersions>
     </prompts>
     <prompts>
+        <name>EnableSalesEngagement</name>
+        <promptVersions>
+            <name>EnableSalesEngagement</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
         <name>SupportEmailToCase</name>
         <promptVersions>
             <name>Support Email To Case</name>
